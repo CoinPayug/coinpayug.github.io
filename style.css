@@ -357,3 +357,10 @@ color: #ffffff;
 .DrugRadar{
     font-size: 50px;
 }
+
+@media screen and (max-width: 600px) {
+  .square  {
+    width:300px;
+    height:300px;
+  }
+}
